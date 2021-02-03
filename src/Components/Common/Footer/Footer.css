@@ -1,0 +1,11 @@
+.footer{
+    display: flex;
+    flex-direction: row;
+    text-align: left !important;
+    justify-content: left;
+    height: 5vh;
+}
+
+h6{
+    margin: 0;
+}

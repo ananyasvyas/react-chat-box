@@ -1,0 +1,15 @@
+.dashboard{
+    height: 80vh;
+    background-color: lightgray;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+.register-container, .login-container{
+    display: block;
+    height: 50vh;
+    width: 40vw;
+    border: 1px solid gray;
+    margin: auto;
+    display: block;
+}
