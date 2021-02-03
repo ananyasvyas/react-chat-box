@@ -7,6 +7,7 @@ const HomePage = () => {
             <button>Products</button>
             <button>Career</button>
             <button>Contact Us</button>
+            <button>Products</button>
         </div>
     )
 }
